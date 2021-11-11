@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\Дискретка 3\Дискретка №3 (4)\Source.cpp(6,35): warning C4244: return: преобразование "double" в "__int64", возможна потеря данных
+  Дискретка №3 (4).vcxproj -> C:\Users\Asus\Desktop\Дискретка 3\Дискретка №3 (4)\Debug\Дискретка №3 (4).exe
